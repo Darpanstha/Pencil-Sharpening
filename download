@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+**/.DS_Store
+pencil
+compile_flags.txt
+build/
